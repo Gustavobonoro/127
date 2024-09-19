@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: arial;
+    text-align: center;
+}
+
+header{
+    background-color: rgb(14,167,237);
+    padding: 3px;
+}
+
+p::first-letter{
+    font-style: italic;
+}
+
+p{
+    line-height: 32px;
+}
